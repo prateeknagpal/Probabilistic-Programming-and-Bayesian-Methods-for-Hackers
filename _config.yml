@@ -1,0 +1,8 @@
+title: Bayesian Methods for Hackers
+description: "An intro to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
